@@ -1,0 +1,36 @@
+GMAIL FILTER REORDER REPORT (PHASE 4)
+====================================
+Date: 2026-02-08
+
+ORDERING PRINCIPLE (per user):
+- Protections first
+- Then delete/noise
+- Then category assignment grouped by retention duration (shortest to longest)
+- Then non-duration / primary
+- Then 'forever' / long-retention label routing
+
+GROUP COUNTS (in final order):
+- protections: 16
+- trash: 6
+- dur_7: 4
+- dur_30: 11
+- dur_90: 1
+- dur_180: 9
+- dur_none: 57
+- dur_forever: 41
+- other: 3
+
+GROUP DEFINITIONS USED:
+- protections: filters that apply Retention/* labels OR set Starred (shouldStar=true)
+- trash: filters with shouldTrash=true
+- dur_7: smartLabelToApply=^smartlabel_social
+- dur_30: smartLabelToApply=^smartlabel_group (Forums/Groups)
+- dur_90: smartLabelToApply=^smartlabel_notification (Updates/Notifications)
+- dur_180: smartLabelToApply=^smartlabel_promo (Promotions)
+- dur_none: smartLabelToApply=^smartlabel_personal (Primary/Personal)
+- dur_forever: custom label routing that matches your long-retention domains (Banking, Legal, Insurance, etc.)
+- other: remaining filters not captured above
+
+NOTE:
+- No filter logic was changed; only <entry> ordering was changed.
+- Relative order within each group was preserved from the cleaned_v1 XML.
