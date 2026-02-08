@@ -1,0 +1,72 @@
+GMAIL FILTER CLEANUP REPORT
+===========================
+Date: 2026-02-08
+
+SCOPE
+-----
+Input:  /mnt/data/mailFilters.xml
+Output: /mnt/data/20260208.gmail_filters_cleaned_v1.xml
+
+USER-DIRECTED CHANGES APPLIED (NO REORDERING PHASE)
+---------------------------------------------------
+1) KEEP: F040 (superset of F037).
+2) KEEP: F098 (superset of F083).
+3) CONSOLIDATE: all 'trash-only' filters into one consolidated trash filter (inserted at original position of first trash-only filter).
+4) REMOVE: category:updates older_than:90d trash rule (F154).
+5) OMIT: sizeOperator and sizeUnit (removed from all filters).
+6) STANDARDIZE: sender formats in 'from' fields (domain tokens prefixed with '@'; legacy {email_ ...} normalized; OR-lists normalized).
+
+COUNTS
+------
+Original filters: 166
+Removed filters:  19
+Cleaned filters:  148
+
+REMOVED FILTERS
+---------------
+- F012: replaced by CONSOLIDATED_TRASH filter (trash-only consolidation).
+- F037: removed (duplicate of F040; F040 has additional actions: archive, mark read, never spam).
+- F057: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F069: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F070: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F071: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F072: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F073: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F074: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F075: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F076: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F077: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F078: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F079: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F083: removed (duplicate of F098; F098 additionally marks as read).
+- F104: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F116: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F140: removed (trash-only) and included in CONSOLIDATED_TRASH query.
+- F154: removed (category:updates older_than:90d trash rule) per request.
+
+CONSOLIDATED_TRASH
+------------------
+- Insert position: F012 (replaces first trash-only filter to preserve overall order).
+- Consolidated count: 16 trash-only filters → 1 filter.
+- Combined query length: 4952 characters.
+
+FROM FIELD NORMALIZATIONS (EXAMPLES)
+-----------------------------------
+- F018: 'va.gov' -> '@va.gov'
+- F019: 'sanfordhealth.org' -> '@sanfordhealth.org'
+- F026: 'fidelity.com' -> '@fidelity.com'
+- F027: 'tsp.gov' -> '@tsp.gov'
+- F031: 'xcelenergy.com' -> '@xcelenergy.com'
+- F042: 'citi.com' -> '@citi.com'
+- F046: '4wp.com' -> '@4wp.com'
+- F047: 'johndeere.com' -> '@johndeere.com'
+- F059: 'zillow.com' -> '@zillow.com'
+- F080: 'dailyom.com' -> '@dailyom.com'
+... (14 more)
+
+NOTES / RISKS
+-------------
+- Consolidation into a single hasTheWord query should import cleanly in Gmail, but Gmail has practical query-length and complexity limits.
+  If import fails, split CONSOLIDATED_TRASH into 2–3 chunks (I can generate that immediately).
+- The legacy '{email_ ...}' sender macro was normalized into an OR-list inside from:(...).
+  This is a best-effort conversion intended to preserve meaning; spot-check sender matching after import.
