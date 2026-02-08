@@ -1,0 +1,2194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001643549821012*0826596751552378967,z0000001643550004544*6217015920869968946,z0000001643550175555*5331646336775499017,z0000001643550541166*8655962178088233224,z0000001643550789704*3293678630318288102,z0000001643551171611*3518660180733563906,z0000001643551271856*1553911644262405545,z0000001643551441666*4035065502679793712,z0000001643551528201*2951023730066725689,z0000001643551929871*4486562061854027029,z0000001643552019198*0638328339906354467,z0000001643552164852*0454054572106276185,z0000001643552962081*5895409034849018047,z0000001643553218244*3322583680342027182,z0000001643554672164*4777373347779828597,z0000001643554819271*4303973650487156828,z0000001643555237610*6317658996142943754,z0000001643555320031*8292324045210542610,z0000001643555402852*3108928220575460307,z0000001643555444671*7666504734650767218,z0000001643555526667*8390164604813687789,z0000001643555629294*7007914674188047076,z0000001643555862428*4076578318683487112,z0000001643556214613*3343604385438684500,z0000001643556257882*8278582717847473840,z0000001643556415445*7797253202236547814,z0000001643556475972*8940152072968014245,z0000001643556917450*0997124193473662160,z0000001643557363965*1890846724988301331,z0000001643558733426*4224557375801039756,z0000001643561725109*7907943809738892410,z0000001643561850481*4914386010744685814,z0000001643561938371*6638408703443432629,z0000001643562161586*4420902124298923075,z0000001643562334308*6124144754238181928,z0000001643568068005*7411660475623832151,z0000001643636612524*2792474468263227549,z0000001643652315180*8519839867783356559,z0000001643731050350*2515709715011154464,z0000001643731157184*9056082796327814515,z0000001643741554774*3547920142382252704,z0000001643774521798*5242790075177232836,z0000001643813591581*3116387121167499272,z0000001643816793087*6488266620412561365,z0000001643817055737*1231924469185340560,z0000001643818000046*9134681346223767390,z0000001643819388988*0897416549721410403,z0000001644271379140*3482664485675448514,z0000001649254537074*2821426429242802015,z0000001652279437071*7933864102679541777,z0000001662745601860*8954676354370468569,z0000001690916930600*1957697726788222753,z0000001696554584061*4462161952253919614,z0000001696555045570*7248258126713025341,z0000001696556301855*3077002270146288251,z0000001696557259873*1414371778973001155,z0000001696561794125*1560257369149593118,z0000001696647346326*3634968012501678264,z0000001697685363567*0036303616835138733,z0000001697769435024*0920583047110001003,z0000001704300615821*5075958412594692685,z0000001704300727880*7810508999074365813,z0000001704300935043*6241189806497547349,z0000001704301239919*7050671700613635723,z0000001704323231081*4573615489962291001,z0000001709042981812*5900406252126420840,z0000001709043150371*3880001816159316652,z0000001709043543166*5207225663454350401,z0000001709047328953*7270385757884893033,z0000001709047506481*2182700155798017989,z0000001709048916124*5519783676599401360,z0000001709048967793*2929056723915944904,z0000001709049003121*4789134099456932950,z0000001709049065670*3654296983659916783,z0000001709049233308*4465277748395529121,z0000001709049257900*8763320959142773300,z0000001709049291121*7310798659401844372,z0000001709049384654*0621243772917754600,z0000001709051032677*2300839053049715722,z0000001709052981926*5311769111656397479,z0000001709053083139*8597921048438789533,z0000001709055854978*1110319881738069482,z0000001709152390838*3189204983940061131,z0000001709226556432*8288611145011552472,z0000001709226611953*2935163627472885509,z0000001709226832442*7798262625709676343,z0000001709227029540*6387738708609778949,z0000001710430100528*7975025071135085346,z0000001710430214235*7772511892463750835,z0000001710430300958*3612728530349073132,z0000001710432083407*2745475499907410808,z0000001710432920893*9191209118746948970,z0000001710434141714*8604569469259139556,z0000001710435034703*4468585481027229571,z0000001710437873655*7115438981802463172,z0000001710445906079*3533251796537441419,z0000001710521055416*4825006172846679819,z0000001710785302979*1645280171039989484,z0000001710786050733*0187790835001613220,z0000001710857723689*3540586482802833565,z0000001710857921399*5431318073574233820,z0000001710858013906*0313658786080017725,z0000001710858501067*0899458049953234253,z0000001710949530279*8366736717073824167,z0000001711288988924*3204585111037092995,z0000001711292682740*8683682725519266340,z0000001711292817924*8318843226346974328,z0000001711294415162*4249192017125972427,z0000001711370343034*9127335542906740006,z0000001711374031667*4671734999144327440,z0000001711457777804*6187451595001572781,z0000001711978307541*4926384809974171315,z0000001712167863645*4073728680825919917,z0000001712324293613*7876212269263705652,z0000001712330460790*3512676249180791168,z0000001712335100073*7423910380636167465,z0000001712942556824*8542131431029616607,z0000001713187517349*6869460794350664335,z0000001713188962453*7794539163046468281,z0000001713285282352*3703074308135069817,z0000001714235915048*8245767084883578953,z0000001727535658745*1189440025758253235,z0000001727554844632*7162773419552617743,z0000001727714862967*2492360218255113244,z0000001730809669480*5134120841239688462,z0000001731353674452*3039422763793833130,z0000001738087735332*2275655498948155374,z0000001738089023184*3687533436070441561,z0000001738089237440*2405118161528686845,z0000001742082774707*3405796128877780065,z0000001742083120989*0038111228642391960,z0000001742725434818*2489541862636897018,z0000001744116938269*4012537660366414657,z0000001744756647036*7529988540223559472,z0000001744757458095*7973545836044512175,z0000001744769460996*5150472312971590368,z0000001744854182642*3221464852288140174,z0000001753110300409*2265670247607822842,z0000001753110446113*6566588868048139853,z0000001755884715947*8011830635340931699,z0000001770071057660*6809747825717119799,z0000001770071337670*4218352172367257031,z0000001770072752500*2057061375588624251,z0000001770073077580*9021526475688457217,z0000001770073315398*4087778509951044663,z0000001770073387650*1129336739908015883,z0000001770074571951*4226823927862193962,z0000001770076102408*5623309297730816871,z0000001770222130311*7169215584033799865,z0000001770224086670*8528042100297567777,z0000001770225888178*6573837763653676807,z0000001770226112475*6259287809753433269,z0000001770246343395*1263080683390433211,z0000001770247969319*6370901138584927180,z0000001770248773119*7547269266718604636,z0000001770249581583*3688157406756754278,z0000001770250275957*7928837982195860146,z0000001770327129422*5850919374199690119,z0000001770329426416*1495178464807262304,z0000001770330837496*3848686025314131867,z0000001770330996500*7822570413567118185,z0000001770331312050*7051408732420381711,z0000001770331421188*4318467794403213647,z0000001770331535487*6988675647185010887,z0000001770331737632*8064986855672910794,z0000001770496933377*6954820732346612883</id>
+	<updated>2026-02-08T16:42:01Z</updated>
+	<author>
+		<name>Christopher Lindberg</name>
+		<email>christopher.a.lindberg@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643549821012*0826596751552378967</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='{order invoice receipt payment}'/>
+		<apps:property name='hasTheWord' value='{order invoice receipt payment}'/>
+		<apps:property name='label' value='Orders'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643550004544*6217015920869968946</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@fargo.k12.nd.us email@blackboard.com &quot;Fargo Public Schools&quot;}'/>
+		<apps:property name='label' value='School'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643550175555*5331646336775499017</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{6059686776 klosesl lindbergs2009}'/>
+		<apps:property name='label' value='Sherri'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643550541166*8655962178088233224</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{deere_employees_credit_union@membercare.customercenter.net empeoplecreditunion @deereemployeescu.com @dccu.com @empeople.com}'/>
+		<apps:property name='label' value='Banking/DECU'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643550789704*3293678630318288102</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@us.army.mil @mail.mil @army.mil}'/>
+		<apps:property name='label' value='Army'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643551171611*3518660180733563906</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='MOAA'/>
+		<apps:property name='label' value='Military Service Organization/MOAA'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643551271856*1553911644262405545</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{roa@smartbrief.com roainfo@roa.org}'/>
+		<apps:property name='label' value='Military Service Organization/ROA'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643551441666*4035065502679793712</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='SOCOM Breakfast'/>
+		<apps:property name='label' value='Military Service Organization/SOCOM Breakfast'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643551528201*2951023730066725689</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@ranger.org  &quot;US Army Ranger Association&quot; ranger@wildapricot.org}'/>
+		<apps:property name='label' value='Military Service Organization/USARA'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643551929871*4486562061854027029</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{rolanda@fargo.k12.nd.us CBoutain@fargoparks.com boutaincarolyn@gmail.com}'/>
+		<apps:property name='hasTheWord' value='Football'/>
+		<apps:property name='label' value='School/Football'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643552019198*0638328339906354467</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='gingria@fargo.k12.nd.us'/>
+		<apps:property name='hasTheWord' value='Trip'/>
+		<apps:property name='label' value='School/German Trip'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643552164852*0454054572106276185</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{email_ &quot;LOOKFANTASTIC&quot; &quot;Olive Garden&quot; &quot;Amazon.com Reviews&quot; &quot;Pearle Vision&quot; KitchenAid @notification-naviextras.com NextDoor &quot;American Home ShieId&quot; jschoena@hotmail.com flora.jubert@gmail.com thisiswhyimbroke @e.fitbit.com @save.spirit-airlines.com @e.menswearhouse.com}'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643552962081*5895409034849018047</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='WoundedWarriorsGuideService@'/>
+		<apps:property name='label' value='Military Service Organization/Wounded Warrior Guide Service'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643553218244*3322583680342027182</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{info@totalregistration.net collegeboard.org}'/>
+		<apps:property name='label' value='Family/Aaron/AP'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643554672164*4777373347779828597</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@em.legion.org &quot;American Legion&quot; &quot;Minnesota American Legion&quot;}'/>
+		<apps:property name='label' value='Military Service Organization/American Legion'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643554819271*4303973650487156828</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{vfw.org vfw4816adjutant@gmail.com}'/>
+		<apps:property name='label' value='Military Service Organization/VFW'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555237610*6317658996142943754</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{va.gov}'/>
+		<apps:property name='label' value='Health/VA'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555320031*8292324045210542610</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='va.gov'/>
+		<apps:property name='subject' value='VA Appointment Reminder'/>
+		<apps:property name='label' value='Health/VA/VA Appointment Reminder'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555402852*3108928220575460307</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='sanfordhealth.org'/>
+		<apps:property name='label' value='Health/Sanford'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555444671*7666504734650767218</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{perceptivesouls.com @quora.com dailyom.com}'/>
+		<apps:property name='label' value='Health/Spiritual'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555526667*8390164604813687789</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{marinasemerikov@gmail.com &quot;Marina Yoga and Massage&quot; &quot;SwipeSimple&quot;}'/>
+		<apps:property name='label' value='Health/Massage'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555629294*7007914674188047076</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@statefarmclaims.com @statefarm.com @statefarmservice.com}'/>
+		<apps:property name='label' value='Insurance/State Farm'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643555862428*4076578318683487112</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{amy.l.sleath.civ@army.mil kristin.m.helmers.civ@mail.mil}'/>
+		<apps:property name='label' value='Military Service Organization/Family Readiness'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643556214613*3343604385438684500</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{creditkarma.com chase.com fnbo.com transunion scheels.com}'/>
+		<apps:property name='label' value='Banking/Credit'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643556257882*8278582717847473840</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@stockrover.com OR subscribe@subscribe.ftc.gov @quantscience.io OR @aafmaa.com OR @seekingalpha.com OR @mail.investopedia.com OR @subscriptions.fdic.gov OR @announcements.federalreserve.gov'/>
+		<apps:property name='label' value='Banking/Investment'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643556415445*7797253202236547814</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='fidelity.com'/>
+		<apps:property name='label' value='Banking/Investment/Fidelity'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643556475972*8940152072968014245</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='tsp.gov'/>
+		<apps:property name='label' value='Banking/Investment/TSP'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643556917450*0997124193473662160</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@vettixer.org'/>
+		<apps:property name='label' value='Military Service Organization/VetTix'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643557363965*1890846724988301331</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{ssa.gov christopher.a.lindberg@gmail.com}'/>
+		<apps:property name='to' value='{fargo.nd.iclaims@ssa.gov}'/>
+		<apps:property name='hasTheWord' value='SSA'/>
+		<apps:property name='label' value='Banking/Investment/SSA'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643558733426*4224557375801039756</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@statefarminfo.com @statefarmservice.com}'/>
+		<apps:property name='hasTheWord' value='&quot;Your State Farm bill is ready&quot;'/>
+		<apps:property name='label' value='Banking/Bills/AutoHomeInsurance'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643561725109*7907943809738892410</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='xcelenergy.com'/>
+		<apps:property name='subject' value='{&quot;Payment Reminder&quot; &quot;Energy Statement&quot;}'/>
+		<apps:property name='label' value='Banking/Bills/XcelEnergy'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643561850481*4914386010744685814</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='883610278230'/>
+		<apps:property name='label' value='Banking/Bills/AWS'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643561938371*6638408703443432629</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='messages-noreply@zenplanner.com'/>
+		<apps:property name='subject' value='&quot;Thank You for Your Payment&quot;'/>
+		<apps:property name='hasTheWord' value='Jiu-jitsu'/>
+		<apps:property name='label' value='Banking/Bills/BJJ'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643562161586*4420902124298923075</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Midco midco.com'/>
+		<apps:property name='label' value='Banking/Bills/Midco'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643562334308*6124144754238181928</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Verizon Wireless'/>
+		<apps:property name='hasTheWord' value='bill'/>
+		<apps:property name='label' value='Banking/Bills/Verizon'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643568068005*7411660475623832151</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Google Play'/>
+		<apps:property name='subject' value='Google Play Order Receipt'/>
+		<apps:property name='label' value='Banking/Bills/Google Play'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643636612524*2792474468263227549</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@f150forum.com'/>
+		<apps:property name='label' value='Auto/2006 F150 FX4'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643652315180*8519839867783356559</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='{&quot;Tracking Number&quot; &quot;tracking information&quot; &quot;UPS Ground&quot;}'/>
+		<apps:property name='label' value='Orders/Shipment'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643731050350*2515709715011154464</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@email.informeddelivery.usps.com'/>
+		<apps:property name='label' value='Post Office Mail'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643731157184*9056082796327814515</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@f150forum.com'/>
+		<apps:property name='label' value='Auto/2006 F150 FX4'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643741554774*3547920142382252704</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{lindbergnas@gmail.com customer-service@resideo.com Service@deereemployeescu.com}'/>
+		<apps:property name='hasTheWord' value='{alert alerts humidity balance battery}'/>
+		<apps:property name='label' value='Alerts/Critical'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643774521798*5242790075177232836</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='citi.com'/>
+		<apps:property name='label' value='Banking/Credit'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643813591581*3116387121167499272</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@nl.healthgrades.com @23andme.com OR healthbeat@mail.health.harvard.edu OR @questhealth.questdiagnostics.com OR info@ketokamp.com OR @geneticlifehacks.com'/>
+		<apps:property name='label' value='Health'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643816793087*6488266620412561365</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{&quot;Mitchell Sanderson&quot; &quot;National Parents Organization&quot; &quot; Parental Rights Foundation&quot; ParentalRights.org mom@rejectedparents.net parents@sharedparenting.org}'/>
+		<apps:property name='label' value='Shared_Parenting'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643817055737*1231924469185340560</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='gary.a.mailloux@gmail.com'/>
+		<apps:property name='label' value='School/Track'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643818000046*9134681346223767390</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='4wp.com'/>
+		<apps:property name='label' value='Auto/2006 F150 FX4'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001643819388988*0897416549721410403</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='johndeere.com'/>
+		<apps:property name='label' value='JohnDeere'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001644271379140*3482664485675448514</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='DFAS-SmartDocs@mail.mil'/>
+		<apps:property name='label' value='Banking/DFAS'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001649254537074*2821426429242802015</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{6059686776 klosesl lindbergs2009 christopher.a.lindberg}'/>
+		<apps:property name='to' value='{6059686776 klosesl lindbergs2009 christopher.a.lindberg}'/>
+		<apps:property name='hasTheWord' value='{medical prescription rx contact vision bill pocket outstanding}'/>
+		<apps:property name='label' value='Sherri/Sherri_Medical'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652279437071*7933864102679541777</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{6059686776 klosesl lindbergs2009 christopher.a.lindberg}'/>
+		<apps:property name='to' value='{6059686776 klosesl lindbergs2009 christopher.a.lindberg}'/>
+		<apps:property name='subject' value='{lens contact contacts vision}'/>
+		<apps:property name='hasTheWord' value='{lens contact contacts vision}'/>
+		<apps:property name='label' value='Sherri/Sherri_Medical/Aaron_Contacts'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001662745601860*8954676354370468569</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{mint.intuit.com}'/>
+		<apps:property name='label' value='Banking'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690916930600*1957697726788222753</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='waterdept@fargond.gov'/>
+		<apps:property name='label' value='Banking/Bills/CityOfFargo'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696554584061*4462161952253919614</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='{&quot;34th Infantry Division Association&quot; &quot;34th ID Assn&quot;}'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696555045570*7248258126713025341</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{nfcu.org navyfederal.org &quot;Navy Federal&quot;}'/>
+		<apps:property name='label' value='Banking/Navy Federal'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696556301855*3077002270146288251</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{zillow.com @edinarealty.com casasolution.com gabrielle.m.realty &quot;Panama Realtor&quot;}'/>
+		<apps:property name='label' value='Exit Strategy'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696557259873*1414371778973001155</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@edinarealty.com e.durocher casasolution.com gabrielle.m.realty}'/>
+		<apps:property name='label' value='Exit Strategy'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696561794125*1560257369149593118</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Zoosk'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696647346326*3634968012501678264</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{Autotrader CarGurus Cars}'/>
+		<apps:property name='label' value='Auto/Classifieds'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697685363567*0036303616835138733</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='zillow.com'/>
+		<apps:property name='label' value='Exit Strategy'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697769435024*0920583047110001003</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Visible'/>
+		<apps:property name='label' value='Banking/Bills/Visible'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001704300615821*5075958412594692685</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='FNBO'/>
+		<apps:property name='label' value='Banking/Credit/Scheels.FNBO'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001704300727880*7810508999074365813</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Chase'/>
+		<apps:property name='label' value='Banking/Credit/AmazonPrime.Chase'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001704300935043*6241189806497547349</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Citi'/>
+		<apps:property name='label' value='Banking/Credit/COSTCO.Citi'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001704301239919*7050671700613635723</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Credit Karma'/>
+		<apps:property name='label' value='Banking/Credit/CreditKarma'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001704323231081*4573615489962291001</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='FNBO'/>
+		<apps:property name='subject' value='Daily Balance Update'/>
+		<apps:property name='forwardTo' value='6513572480@vzwpix.com'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709042981812*5900406252126420840</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='account@seekingalpha.com OR @stockrover.com'/>
+		<apps:property name='label' value='Banking/Investment/Market News'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709043150371*3880001816159316652</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Fidelity.Alerts@fidelity.com'/>
+		<apps:property name='subject' value='&quot;Fidelity Alerts: Position Summary&quot;'/>
+		<apps:property name='label' value='Banking/Investment/Fidelity/Position Summaries'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709043543166*5207225663454350401</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='fidelity.alerts@fidelity.com'/>
+		<apps:property name='subject' value='&quot;Fidelity Alerts: Account Summary&quot;'/>
+		<apps:property name='label' value='Banking/Investment/Fidelity/Account Summaries'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709047328953*7270385757884893033</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='parents@sharedparenting.org OR healthbeat@mail.health.harvard.edu OR info@parentalrights.org OR noreply@f150forum.com OR mom@rejectedparents.net OR Parents@sharedparenting.org'/>
+		<apps:property name='subject' value='&quot;2004 - 2008 Ford F150&quot; update'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709047506481*2182700155798017989</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='newsletter@localnewsbreak.com OR cargurus@mail.cargurus.com OR hft@em.harborfreight.com OR info@email.fragrancenet.com OR email@emalert.cars.com OR updates@news.gobison.com OR noreply@vettixer.org OR email@messages.autotrader.com OR email@em.cars.com OR david@dogdenfitness.com OR mail@mail4.creditkarma.com OR recommendations@inspire.pinterest.com OR pendleton-newsletter@email.penmills.com OR News@mail.crutchfield.com OR news@stockrover.com OR team@hello.babbel.com OR email@m1.viator.com OR TheUniversityofTulsa@utulsa-info.org OR TurboTax@em1.turbotax.intuit.com OR MyFWC@public.govdelivery.com OR info@bwca.com OR recommendations@explore.pinterest.com OR store-news@amazon.com OR sales@newwiremarine.com OR newsletter@email.penmills.com OR legion@em.legion.org OR sknolle@my.mileone.com OR mail@ifttt.com OR Team@gunwerks.com OR info@email-medalsofamerica.com OR genealogy@genealogybank.com OR mail@eg.expedia.com OR newsletters@marketing.vortexoptics.com OR digest@vesta.threadloom.news OR info@5lovelanguages.com OR OpenTable@mgs.opentable.com OR info@recycledfirefighter.com OR noreply@e.huskyliners.com OR comments@lelo.com OR website@weldersupply.com OR noreply@silabs.com OR no-reply@email.alltrails.com OR info@cyberweld.com OR myhg@healthgrades.com OR no-reply@doordash.com'/>
+		<apps:property name='subject' value='Inventory Alert: 8+ new listings matching your search, &quot;Used Vehicles for Sale&quot;'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709048916124*5519783676599401360</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Notifications'/>
+		<apps:property name='hasTheWord' value='list:(&lt;.7289367.xt.local&gt;) OR list:(&lt;7202588.xt.local&gt;)'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709048967793*2929056723915944904</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Verification'/>
+		<apps:property name='hasTheWord' value='list:(&lt;.7289367.xt.local&gt;) OR list:(&lt;7202588.xt.local&gt;) OR list:(.7289372.xt.local)'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709049003121*4789134099456932950</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Order Confirmation'/>
+		<apps:property name='hasTheWord' value='list:(&lt;.7289367.xt.local&gt;) OR list:(&lt;7202588.xt.local&gt;) OR list:(.7289372.xt.local)'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709049065670*3654296983659916783</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Confirmation Receipt'/>
+		<apps:property name='hasTheWord' value='list:(&lt;.7289367.xt.local&gt;) OR list:(&lt;7202588.xt.local&gt;) OR list:(.7289372.xt.local)'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709049233308*4465277748395529121</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='email_tO5YGQ4xc5@ophacvhjxaqk.jwarnick.com OR anywtmavqgunwkffvyiva@dyyhjrtwgu.ignitermedia.com OR sales_info@news.oldoakvilleslipcover.com OR info_tO5YGQ7Y74x@news.dhsexsqbktj.com OR info_tO5YGQ2OdRi@news.ihlvxenbrcp.com OR info_tO5YGQ4ipvg@bctujcrpxhi.io OR info_tO5YGQ5Hi90@unlal.newsletterbird.com OR info_tO5YGQ18Bra@news.jmzaxizdynx.com OR info_tO5YGQ8M2Am@owdju.pvcellphone.com OR info_tO5YGQ8C1wR@ofdtb.pvcellphone.com OR xuulipqrsz@tedhyttunfcrkxofrhddmv.com OR 2SfoX79-W6suMX9dqK-noReply@www.convert.az OR w6rtcef-h49CKqiDD1-noReply@mobile.easternyc.org OR zdglopi-mjcptnbwzlp-noReply@containersforchange.com.au OR 83XZY0P-VoFnJmZ8Zd@efgroup.ca OR qjjhanb-iChZsQoYsvs-noReply@new.minigrid.com OR zRWac-UKbflsaK-noReply@babypicsapp.com OR xLeAn-TZaVLNea-noReply@qvrmuzm.babypicsapp.com OR 7igpHF6fS-YnJc0iK-noReply@fuorilavoce.news OR account@incomed.fr OR obmumeq-iChZsQu0xNC-noReply@gartenmobel-auflagen.de OR t9CvroZ4x-kij6Eah-noReply@davisvanwagenenlaw.com'/>
+		<apps:property name='subject' value='confirmation'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709049257900*8763320959142773300</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;.7289367.xt.local&gt;) OR list:(.7289372.xt.local)'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709049291121*7310798659401844372</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='xuulipqrsz@tedhyttunfcrkxofrhddmv.com OR 2SfoX79-W6suMX9dqK-noReply@www.convert.az OR w6rtcef-h49CKqiDD1-noReply@mobile.easternyc.org OR zdglopi-mjcptnbwzlp-noReply@containersforchange.com.au OR 83XZY0P-VoFnJmZ8Zd@efgroup.ca OR qjjhanb-iChZsQoYsvs-noReply@new.minigrid.com OR zRWac-UKbflsaK-noReply@babypicsapp.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709049384654*0621243772917754600</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;7202588.xt.local&gt;) OR list:(&lt;6417211.xt.local&gt;)'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709051032677*2300839053049715722</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='email.alltrails.com OR mail.cargurus.com OR localnewsbreak.com OR em.harborfreight.com OR email.fragrancenet.com OR news.gobison.com OR vettixer.org OR messages.autotrader.com OR em.cars.com OR dogdenfitness.com OR mail4.creditkarma.com OR inspire.pinterest.com OR email.penmills.com OR mail.crutchfield.com OR stockrover.com OR hello.babbel.com OR m1.viator.com OR utulsa-info.org OR em1.turbotax.intuit.com OR public.govdelivery.com OR bwca.com OR explore.pinterest.com OR store-news@amazon.com OR newwiremarine.com OR email.penmills.com OR em.legion.org OR my.mileone.com OR  ifttt.com OR  gunwerks.com OR email-medalsofamerica.com OR  genealogybank.com OR mail@eg.expedia.com OR  marketing.vortexoptics.com OR  vesta.threadloom.news OR  5lovelanguages.com OR  mgs.opentable.com OR  recycledfirefighter.com OR  e.huskyliners.com OR  emalert.cars.com OR lelo.com OR  weldersupply.com OR  silabs.com OR  cyberweld.com OR  healthgrades.com OR  doordash.com'/>
+		<apps:property name='hasTheWord' value='older_than:30d'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709052981926*5311769111656397479</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='dailyom.com'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709053083139*8597921048438789533</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='email@e.upgrade.com OR support@puffy.com OR loyalty@loyalty.ms.aa.com OR no-reply@youtube.com OR noreply@waze.com'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709055854978*1110319881738069482</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='dailyom.com OR fathers-l@googlegroups.com OR &quot;North Dakota Game and Fish&quot; OR &quot;Florida Fish &amp; Wildlife Conservation Commission&quot; OR &quot;Base Camp Leasing&quot;'/>
+		<apps:property name='hasTheWord' value='older_than:1y'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709152390838*3189204983940061131</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='instagram.com OR linkedin.com OR facebookmail.com'/>
+		<apps:property name='hasTheWord' value='older_than:7d'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709226556432*8288611145011552472</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='lindbergnas@gmail.com'/>
+		<apps:property name='label' value='Alerts/Critical/Fileserver'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709226611953*2935163627472885509</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='customer-service@resideo.com'/>
+		<apps:property name='label' value='Alerts/Critical/Basement Water Sensor'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709226832442*7798262625709676343</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Fidelity.Alerts@fidelity.com'/>
+		<apps:property name='label' value='Banking/Investment/Fidelity'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001709227029540*6387738708609778949</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@rachio.com'/>
+		<apps:property name='label' value='Alerts/Routine/Sprinkler'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710430100528*7975025071135085346</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Fish'/>
+		<apps:property name='label' value='Outdoors/Fishing'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710430214235*7772511892463750835</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Hunt'/>
+		<apps:property name='label' value='Outdoors/Hunting'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710430300958*3612728530349073132</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;CampV&quot;'/>
+		<apps:property name='hasTheWord' value='from:(sun-city-texas OR delwebb OR sctexas OR sc-texas OR .tx.us OR texas.gov OR tdi.texas.gov OR txdmv.gov OR houston OR dallas OR austin OR sanantonio OR txdot)'/>
+		<apps:property name='doesNotHaveTheWord' value='{@discord.com seekingalpha.com @vettixer.org @statefarmservice.com @ideas.pinterest.com @email.homes.com}'/>
+		<apps:property name='label' value='Exit Strategy/Texas'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710432083407*2745475499907410808</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Bluedriver OR FORScan'/>
+		<apps:property name='label' value='Auto'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710432920893*9191209118746948970</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='panamarelocationtours.com OR expatexchange.com'/>
+		<apps:property name='label' value='Exit Strategy/Panama'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710434141714*8604569469259139556</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='voice-noreply@google.com'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710435034703*4468585481027229571</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='citi.com OR fnbo.com OR chase.com'/>
+		<apps:property name='subject' value='balance OR Balance OR &quot;Your daily alerts summary&quot;'/>
+		<apps:property name='hasTheWord' value='older_than:1d'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710437873655*7115438981802463172</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;Parental Rights Foundation&quot;'/>
+		<apps:property name='label' value='Shared_Parenting'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710445906079*3533251796537441419</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='OnX OR onxmapssupport.zendesk.com'/>
+		<apps:property name='label' value='Outdoors/Hunting'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710521055416*4825006172846679819</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;Stanley 1913&quot; OR &quot;Vortex&quot; OR &quot;ORCA&quot; OR &quot;Gunwerks&quot; OR alltrails.com OR @pewpewtactical.com'/>
+		<apps:property name='label' value='Outdoors'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710785302979*1645280171039989484</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='instagram.com OR linkedin.com OR facebookmail.com'/>
+		<apps:property name='hasTheWord' value='older_than:7d'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710786050733*0187790835001613220</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;North Dakota Game and Fish&quot; OR &quot;Florida Fish &amp; Wildlife Conservation Commission&quot; OR &quot;Base Camp Leasing&quot; OR &quot;Texas Parks and Wildlife Department&quot;'/>
+		<apps:property name='label' value='Outdoors'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710857723689*3540586482802833565</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(from:aaron.j.lindberg@gmail.com OR from:alindbe5@gmu.edu) OR (to:aaron.j.lindberg@gmail.com OR to:alindbe5@gmu.edu)'/>
+		<apps:property name='label' value='Family/Aaron'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710857921399*5431318073574233820</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{garrett-hfalliance.com@shared1.ccsend.com CollegeRecon @gmu.edu OR @nshss.org OR @admissions.nau.edu OR @collegevine.com OR @augie.edu OR @fsu.edu OR @mnstate.edu OR @studentaid.gov OR @ndsu.edu OR @und.edu OR @pomona.edu}'/>
+		<apps:property name='label' value='Family/Aaron/College'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710858013906*0313658786080017725</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='nshss.org'/>
+		<apps:property name='label' value='Family/Aaron'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710858501067*0899458049953234253</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='aaron.j.lindberg@gmail.com OR matthew.c.lindberg@gmail.com OR david.w.lindberg@gmail.com OR clindy55@yahoo.com OR mlindy55@yahoo.com OR  firebolttdl@gmail.com'/>
+		<apps:property name='label' value='Family'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001710949530279*8366736717073824167</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='test-invitation@meross.cc'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711288988924*3204585111037092995</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='fivestarstorage.biz OR statestoragegroup.com OR cookcharlotte46@yahoo.com'/>
+		<apps:property name='hasTheWord' value='storage'/>
+		<apps:property name='label' value='Banking/Bills/Storage'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711292682740*8683682725519266340</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='paypal.com'/>
+		<apps:property name='label' value='Banking/Credit/Paypal'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711292817924*8318843226346974328</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='venmo.com'/>
+		<apps:property name='excludeChats' value='true'/>
+		<apps:property name='label' value='Banking/Credit/Venmo'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711294415162*4249192017125972427</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='em.fidelityrewards.com'/>
+		<apps:property name='label' value='Banking/Credit/Fidelity VISA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711370343034*9127335542906740006</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Seeking Alpha Alerts'/>
+		<apps:property name='hasTheWord' value='Quant Rating Alert'/>
+		<apps:property name='label' value='Alerts/Critical/Stock'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711374031667*4671734999144327440</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{82dassn@multibriefs.com execsec-82ndairborneassociation.org@shared1.ccsend.com}'/>
+		<apps:property name='label' value='Military Service Organization/82nd Airborne Association'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711457777804*6187451595001572781</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='Fidelity Investments'/>
+		<apps:property name='hasTheWord' value='trade confirmation'/>
+		<apps:property name='label' value='Banking/Investment/Fidelity/Trades'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001711978307541*4926384809974171315</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='BWCA'/>
+		<apps:property name='label' value='Outdoors/BWCA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001712167863645*4073728680825919917</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='howarddgordonjfr75@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001712324293613*7876212269263705652</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='aaron@firehousemortgage.net'/>
+		<apps:property name='label' value='Exit Strategy/Texas'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001712330460790*3512676249180791168</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;The Panama Adventure&quot;'/>
+		<apps:property name='label' value='Exit Strategy/Panama'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001712335100073*7423910380636167465</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='caritaodonbquh@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001712942556824*8542131431029616607</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{clifford.d.comstock.mil@army.mil charlescox1@gmail.com timmy.d.rhode.mil@army.mil thomas.a.sauvageau.mil@army.mil}'/>
+		<apps:property name='label' value='Army/B_2-136 Barbarians'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713187517349*6869460794350664335</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@vnorth.com @snowbanklodgeandoutfitters.com  paddleplanner@gmail.com}'/>
+		<apps:property name='label' value='Outdoors/BWCA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713188962453*7794539163046468281</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Boundary Waters Canoe Area&quot;'/>
+		<apps:property name='label' value='Outdoors/BWCA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713285282352*3703074308135069817</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@menshealth.com'/>
+		<apps:property name='label' value='Health/MensHealth'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001714235915048*8245767084883578953</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{Expedia.com Algotels &quot;Mountain Villas&quot; Airbnb &quot;Costco Travel&quot; &quot;Air Force Inns&quot; &quot;Key West Itt&quot;}'/>
+		<apps:property name='label' value='Travel'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001727535658745*1189440025758253235</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='(foraker.donna@outlook.com forakerdonna@gmail.com}'/>
+		<apps:property name='label' value='Family/Donna'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001727554844632*7162773419552617743</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@aermfg.com @lutherfamilyford.com @nordstromsauto.com}'/>
+		<apps:property name='label' value='Auto/2006 F150 FX4'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001727714862967*2492360218255113244</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{msevans48@gmail.com karl.rose4@att.net mdavis@southernmotion.com chris.hanz@outlook.com}'/>
+		<apps:property name='label' value='Faith/BSF'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001730809669480*5134120841239688462</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='rs.email.nextdoor.com'/>
+		<apps:property name='label' value='Exit Strategy/Texas'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001731353674452*3039422763793833130</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='mhv@va.gov'/>
+		<apps:property name='label' value='Health/VA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001738087735332*2275655498948155374</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@ss.email.nextdoor.com'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001738089023184*3687533436070441561</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Kingwood'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Kingwood, TX 77345&quot;'/>
+		<apps:property name='label' value='Exit Strategy/Texas/Kingwood'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001738089237440*2405118161528686845</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='REOLINK NVR'/>
+		<apps:property name='label' value='Alerts/Security'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001742082774707*3405796128877780065</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='support@land.com'/>
+		<apps:property name='label' value='Exit Strategy/Texas/Land'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001742083120989*0038111228642391960</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='auto-confirm@amazon.com OR order-update@amazon.com OR shipment-tracking@amazon.com'/>
+		<apps:property name='label' value='Orders/Amazon'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001742725434818*2489541862636897018</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@sandhillsrentals.com @marthagentry.com abesaljr@gmail.com no-reply@campaigns.nicejob.co lassiter140@windstream.net jlhomeservice@yahoo.com @thenpoa.org mcduffie64@gmail.com}'/>
+		<apps:property name='label' value='Family/Donna/Pinehurst'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001744116938269*4012537660366414657</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{ShadowCreek.Reply.Friedman@aptleasing.info kmiles@npmainfo.com stonebridgemanager@sunridgeapts.net}'/>
+		<apps:property name='label' value='Exit Strategy/Texas/Lufkin'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001744756647036*7529988540223559472</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@trivestcares.com OR crownforest@emailrelay.com OR @entrata.com  OR @minolusa.com OR @kingsleyassociates.com'/>
+		<apps:property name='label' value='Exit Strategy/Texas/Lufkin/Apartment'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001744757458095*7973545836044512175</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='to' value='{@sandhillsrentals.com @marthagentry.com abesaljr@gmail.com no-reply@campaigns.nicejob.co lassiter140@windstream.net jlhomeservice@yahoo.com @thenpoa.org mcduffie64@gmail.com}'/>
+		<apps:property name='label' value='Family/Donna/Pinehurst'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001744769460996*5150472312971590368</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='christopher.a.lindberg@gmail.com'/>
+		<apps:property name='to' value='cookcharlotte46@yahoo.com'/>
+		<apps:property name='label' value='Exit Strategy/Texas/Tyler/Storage'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001744854182642*3221464852288140174</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='christopher.a.lindberg@gmail.com'/>
+		<apps:property name='subject' value='{lindbergserver}'/>
+		<apps:property name='hasTheWord' value='lindbergserver'/>
+		<apps:property name='label' value='Alerts/Critical/Fileserver'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001753110300409*2265670247607822842</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{DoNotReply-4ChangeEnergy@mailenergybill.com @vistracorp.com}'/>
+		<apps:property name='label' value='Banking/Bills/4ChangeEnergy'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001753110446113*6566588868048139853</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='txu@notifications.txu.com'/>
+		<apps:property name='label' value='Banking/Bills/TXUEnergy'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001755884715947*8011830635340931699</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='marketing@thecigarbully.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770071057660*6809747825717119799</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='aaa-texas@email-aaa.com'/>
+		<apps:property name='label' value='Insurance/AAA'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770071337670*4218352172367257031</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@mail.fidelity.comOR @fmr.com OR @shareholderdocs.fidelity.com OR @email.billpay.fidelity.com}'/>
+		<apps:property name='label' value='Banking/Investment/Fidelity'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770072752500*2057061375588624251</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@catchaliftfund.com}'/>
+		<apps:property name='label' value='Health/Catch a Lift'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770073077580*9021526475688457217</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='to' value='aaron.j.lindberg@gmail.com,alindbe5@gmu.edu'/>
+		<apps:property name='label' value='Family/Aaron'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770073315398*4087778509951044663</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='4change@notifications.4changeenergy.com'/>
+		<apps:property name='label' value='Banking/Bills/4ChangeEnergy'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770073387650*1129336739908015883</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@shelbynextchms.com OR @cwaychurch.org OR hello@thebiblerecap.com'/>
+		<apps:property name='label' value='Faith/Church'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770074571951*4226823927862193962</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='cookcharlotte46@yahoo.com'/>
+		<apps:property name='label' value='Exit Strategy/Texas/Tyler/Storage'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770076102408*5623309297730816871</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='{@nexweb.org @afsv.net @airbnb.com}'/>
+		<apps:property name='label' value='Travel'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770222130311*7169215584033799865</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='edassist@moaa.org'/>
+		<apps:property name='label' value='Family/Aaron/College'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770224086670*8528042100297567777</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@savagearms.com OR @marketing.vortexoptics.com OR @budsgunshop.com OR @e.gunwerks.com OR noreply@kygunco.com OR @emedia.nrapublications.org OR @nramedia.org OR @boydsgunstocks.com OR @midwayusa.messages5.com'/>
+		<apps:property name='label' value='Outdoors/Gun Shops'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770225888178*6573837763653676807</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@toprankfully.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770226112475*6259287809753433269</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='gsaauctions@service.govdelivery.com'/>
+		<apps:property name='label' value='Shopping/GSA'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770246343395*1263080683390433211</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='irs@service.govdelivery.com'/>
+		<apps:property name='label' value='Banking/Taxes'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770247969319*6370901138584927180</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='category:updates older_than:90d'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770248773119*7547269266718604636</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='subject' value='verification code'/>
+		<apps:property name='label' value='Retention/1-week'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770249581583*3688157406756754278</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@nedm.asus.com OR superhuman@daveasprey.com OR @enews.opticsplanet.com OR @email.taunton.com OR recommendations@discover.pinterest.com OR news@email.homes.com OR @promo.newegg.com OR @accounts.heb.com OR @synthetic-pros.com OR @email.microcenter.com OR store-news@amazon.com OR @m.learn.coursera.org OR @mail.crutchfield.com OR @primeweld.com OR @email.etsy.com OR @e.harborfreight.com'/>
+		<apps:property name='label' value='Retention/1-month'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770250275957*7928837982195860146</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='blessings@dailyfaithacademy.com'/>
+		<apps:property name='label' value='Faith'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770327129422*5850919374199690119</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@stockrover.com OR support@markettaker.com OR customercare@gotowebinar.com OR prospertrading.com OR'/>
+		<apps:property name='label' value='Banking/Investment/Market News'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770329426416*1495178464807262304</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='billpay@billpayfidelity.com'/>
+		<apps:property name='label' value='Banking/Bills'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770330837496*3848686025314131867</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;Google Voice&quot;'/>
+		<apps:property name='label' value='Google_Voice'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770330996500*7822570413567118185</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='consumercomplaints@fcc.gov OR @optimum.com OR @alticeusa.com'/>
+		<apps:property name='label' value='Complaints'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770331312050*7051408732420381711</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='jason@quantscience.io'/>
+		<apps:property name='label' value='Banking/Investment'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770331421188*4318467794403213647</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@public.govdelivery.com'/>
+		<apps:property name='hasTheWord' value='list:(51bba2b6e0b9a27196aa0d00a.526813.list-id.mcsv.net)'/>
+		<apps:property name='label' value='Military Service Organization/NGAUS'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770331535487*6988675647185010887</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='MNDVA@public.govdelivery.com'/>
+		<apps:property name='label' value='Military Service Organization/NGAUS'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770331737632*8064986855672910794</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='hello@duolingo.com'/>
+		<apps:property name='label' value='Alerts'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001770496933377*6954820732346612883</id>
+		<updated>2026-02-08T16:42:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='@taxacte-file.com'/>
+		<apps:property name='label' value='Banking/Taxes'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
